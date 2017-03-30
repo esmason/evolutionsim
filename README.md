@@ -1,3 +1,3 @@
 # evolutionsim
-simulates sex ratio genotype evolution
+simulates male-female ratio genotype evolution
  
